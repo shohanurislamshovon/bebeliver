@@ -1,0 +1,88 @@
+@media screen and (max-width: 680px) {
+    .menu-btn{
+        display: block;
+       float: right;
+       margin-right: 10%;
+       margin-top: 1%;
+    }
+    .nav-btn-area{
+        display: none;
+    }
+    .left-side{
+        width: 100%;
+        float: left;
+    }
+    .left-side img{
+        width: 80%;
+        margin-top: 150px;
+        margin-left: 50px;
+       
+    }
+    .right-side{
+        display: block;
+        width: 100%;
+        margin-top: 80px;
+        float: left;
+        margin-left: 10%;
+    }
+ 
+ .reg-btn {
+     width: 200px;
+     border: 2px solid #F64C72;
+     background: none;
+     padding: 10px;
+     border-radius: 5px;
+     transition: .30s;
+ }
+ .rev-left-side{
+    width: 100%;
+    float: left;
+}
+.rev-left-side img{
+    width: 80%;
+    margin-top: 150px;
+    margin-left: 60px;
+   
+}
+.rev-right-side{
+    display: block;
+    width: 100%;
+    margin-top: 170px;
+    float: left;
+    margin-left: 10%;
+    font-size: 22px;
+    text-align: center;
+}
+.rev-right-side h1{
+    font-size: 22px;
+}
+.team-member{
+    display: none;
+}
+.not-for-mobile{
+    display: none;
+}
+.full-body-area{
+    height:100%;
+}
+.footer-text{
+    display: block;
+}
+.navbar-for-desktop{
+    display: none;
+}
+.navbar{
+    margin-top:0% ;
+   
+}
+.navbar-for-mobile{
+    display: block;
+}
+.navbar li{
+    margin-top: 10px;
+}
+.navbarcall{
+    display: none;
+}
+
+   }
